@@ -1,7 +1,7 @@
-../data/eda-benin-malanville.csv
-../data/eda-sierraleone-bumbuna.csv
-../data/eda-togo-dapaong_qc.csv
+/data/eda-benin-malanville.csv
+/data/eda-sierraleone-bumbuna.csv
+/data/eda-togo-dapaong_qc.csv
 .ipynb_checkpoints/
-*.csv
+
 .vscode/
 venv
