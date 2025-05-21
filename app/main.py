@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title("Solar Farm Insights Dashboard")
 
 # Country selection
-countries = ["benin_malanville", "sierraleon", "togo"]
+countries = ["benin_clean", "sierrleon_clean", "togo_cleaned"]
 selected_country = st.selectbox("Select Country", countries)
 
 # Load data
